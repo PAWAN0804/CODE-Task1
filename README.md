@@ -1,7 +1,8 @@
 Name:- Pawan Kumar Nishad
+Company :- CODTECH IT SOLUTIONS
 ID :- CT08DA289
 Domain :- Python Programming
-Duration :- 4 Weeks
+Duration :- May to june 2024
 Mentor :- Sravani Gouni
 
 Descriotion :-
